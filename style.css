@@ -54,6 +54,11 @@ button{
 .operator{
     color: yellow;
 }   
+.abc{
+    position: fixed;
+    bottom: 10px;
+    left: 10px;
+}
 
 /* Media query for smaller screens */
 @media (max-width: 600px) {
